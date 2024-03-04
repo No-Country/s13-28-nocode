@@ -1,5 +1,5 @@
 # Hociquitos
-Proyeto no code de No Country
+Proyecto no code de No Country
 
 ## **Integrantes**
 
