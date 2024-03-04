@@ -11,7 +11,7 @@ Proyeto no code de No Country
 - Anderson Ocampo - UX/UI
 - Camila Eberwein - UX/UI
 
-## ** Tecnologías/ herramientas utilizadas **
+## **Tecnologías/ herramientas utilizadas**
 
 - Bubble
 - Figma
