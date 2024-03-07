@@ -19,3 +19,4 @@ Proyecto no code de No Country
 - Illustrator
 - Optimal workshop
 - Google forms
+- Maze
